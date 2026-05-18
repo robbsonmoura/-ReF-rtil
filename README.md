@@ -12,7 +12,7 @@
 - Robson Rodrigues de Moura
 - Matheus Talarico de Souza Mello
 - Pedro Henrique Miranda Ribeiro Queiroga
-- Marianne Marinho de Castro
+- Mariane Marinho de Castro
 
 ---
 
