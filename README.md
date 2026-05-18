@@ -6,6 +6,16 @@
 
 ---
 
+# 👥 Equipe
+
+### Ciência da Computação
+- Robson Rodrigues de Moura
+- Matheus Talarico de Souza Mello
+- Pedro Henrique Miranda Ribeiro Queiroga
+- Mariane Marinho de Castro
+
+---
+
 ## 📌 Sobre o Projeto
 
 O **ReFértil** é um projeto desenvolvido para o **Amazon Hacking**, com foco na comunidade da **Vila de Jutaí, em Moju-PA**.
@@ -105,3 +115,4 @@ Monitoramento por sensores
 Controle de ventilação e umidade
         ↓
 Produção de adubo orgânico
+```
